@@ -3,7 +3,7 @@
 
 /**
  * _putchar - writes the character c to nstdout
- * 0c: The character to print
+ * @c: The character to print
  *
  * Return: on success 1.
  * On error, -1 is returned, and errno is set appropriately
