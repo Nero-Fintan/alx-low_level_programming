@@ -1,12 +1,13 @@
 #include "main.h"
+
 /**
- *main - print _putchar
- *written by me Fintan Nero
- *Return: 0
+ * main - print _putchar
+ * written by me Fintan Nero
+ * Return: 0
  */
 int main(void)
 {
-	char *sh - "Holberton";
+	char *sh = "Holberton";
 
 	while (*sh)
 	{
